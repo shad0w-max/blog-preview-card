@@ -90,15 +90,7 @@ p {
     line-height: 150%;
     color: var(--gray500);
 }
-
-
-
-
-
-
-
-
-
+ 
 .card-author {
     display: flex; 
     align-items: center;
@@ -113,4 +105,22 @@ p {
 .card-author .username {
     font-weight: 800;
     font-size: 14px;
+}
+
+
+
+/* Mobile  */
+@media screen and (max-width: 450px) {
+    .card {
+        width: 90%; 
+    }
+
+    .card .card-image {
+        width: 100%;
+        /* text-align: center; */
+    }
+
+    .card img {
+        border-radius: 20px;
+    }
 }
