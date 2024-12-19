@@ -10,9 +10,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)  
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
- 
+- [Author](#author) 
 
 ## Overview 
 
@@ -41,9 +39,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept. 
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+ 
+- Frontend Mentor - [@shad0w-max](https://www.frontendmentor.io/profile/shad0w-max)
+- X(Twitter) - [@shad0w_max](https://x.com/shad0w_max)
  
  
