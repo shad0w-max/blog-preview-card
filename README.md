@@ -21,7 +21,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/shad0w-max/blog-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://shad0w-max.github.io/blog-preview-card/)
 
 ## My process
 
@@ -29,14 +29,12 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
+- Flexbox 
 - Mobile-first workflow 
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept. 
+- [CSS variables](https://www.w3schools.com/css/css3_variables.asp) - This helped me to learn about variables in CSS. I really liked this pattern and will use it going forward. 
 
 ## Author
  
