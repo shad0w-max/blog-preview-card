@@ -79,6 +79,11 @@ p {
     line-height: 150%;
 }
 
+.card-content .title:hover {
+    color: var(--yellow);
+    cursor: pointer;
+}
+
 .card-content .description {
     font-size: 16px;
     font-weight: 500;
